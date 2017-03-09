@@ -36,7 +36,7 @@ Returns the direction the rover is currently pointing, values are 'N', 'W', 'E',
 ### rover.getSize()
 Returns size of the grid as an object of the form
 ```json
-{x: <length along x-axis>, y: <length along y-axis>}
+{x: <length-along-x-axis>, y: <length-along-y-axis>}
 ```
 
 ### rover.runCommands(arr) where
