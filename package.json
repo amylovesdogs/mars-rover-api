@@ -1,0 +1,18 @@
+{
+  "name": "mars-rover-api",
+  "version": "1.0.0",
+  "description": "API for creating and moving mars rover",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amylovesdogs/mars-rover-api"
+  },
+  "author": "Amy Paschal",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
